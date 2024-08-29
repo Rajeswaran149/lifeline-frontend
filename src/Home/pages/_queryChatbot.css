@@ -1,0 +1,18 @@
+.query-container{
+    height: 100vh;
+    nav{
+        height: 20%;
+        .items-center{
+            align-items: center;
+        }
+    }
+    .h-screen{
+        height: 60%;
+    }
+    .items-center{
+        align-items: end;
+    }
+    footer{
+        height: 10%;
+    }
+}
